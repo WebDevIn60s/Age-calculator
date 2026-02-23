@@ -2,8 +2,13 @@
 
 A stunning, responsive age calculator web application built with vanilla HTML, CSS, and JavaScript. Calculate your exact age in years, months, and days with a modern, aesthetic interface.
 
-![Age Calculator](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+## 🚀 Project Preview
+
+<p align="center">
+  <img src="age calc.png" width="310"/>
+</p>
+
+----
 
 ## ✨ Features
 
@@ -230,18 +235,6 @@ Ideas for contributions:
 - Add more calculation options (weeks, hours, etc.)
 - Improve accessibility (ARIA labels, keyboard navigation)
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
 ```
 
 ## 🌟 Features Breakdown
